@@ -1,0 +1,8 @@
+#!/bin/sh
+
+for i in `seq 50`
+do
+	python music.py >> file.txt
+done
+awk -f script.awk < file.txt > file1.txt
+python graph.py

@@ -1,0 +1,23 @@
+pmc
+training error:  1.5023958438574254
+selectivity  [0.94, 1.0, 0.96]
+specificty [0.92, 0.88, 1.0]
+
+pcmb
+selectivity  [0.9733333333333334, 1.0, 0.9866666666666667, 0.84]
+specificty [0.56, 0.88, 1.0, 0.96]
+
+pc
+training error: 0.09283581222641743
+selectivity  [0.96, 1.0]
+specificty [1.0, 0.96]
+
+rp
+trainig error 2.9360046085183047
+selectivity  [0.88, 0.84]
+specificty [0.84, 0.88]
+
+pm
+training error  0.0514451616772
+selectivity  [0.96, 1.0]
+specificty [1.0, 0.96]
